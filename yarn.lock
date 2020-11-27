@@ -881,6 +881,17 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
+generator-react-kit@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/generator-react-kit/-/generator-react-kit-0.0.1.tgz#739833f1784a6721b62678d0459fbe53d466924a"
+  integrity sha512-gcyw6ZE4+CcUjvO61TeEUynGQRkm9NcAsGv8FPvbXtLma6qzIN3CMx2WodBG7YFU3lyUe18Ax4LM1fRYN1qRtQ==
+  dependencies:
+    chalk "^4.1.0"
+    ejs "^3.1.5"
+    yeoman-environment "^2.10.3"
+    yeoman-generator "^4.0.2"
+    yosay "^2.0.2"
+
 get-stdin@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/get-stdin/-/get-stdin-4.0.1.tgz#b968c6b0a04384324902e8bf1a5df32579a450fe"
