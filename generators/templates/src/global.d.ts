@@ -62,8 +62,3 @@ declare module '*.module.sass' {
   const classes: { readonly [key: string]: string }
   export default classes
 }
-
-declare module '@shopee/trackingv3sdk' {
-  const createTrackingV3Sdk: (any) => { sync: Function }
-}
-declare module '@shopee/trackingv3sdk-wv'
